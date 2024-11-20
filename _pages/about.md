@@ -92,29 +92,29 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">NPU Chip Design</div>
-    <img src='images/NPU_arch.png' alt="sym" width="100%" box-shadow="None" >
+    <img src='images/sjtu.png' alt="sym" width="100%" box-shadow="None" >
   </div>
   <div class='paper-box-text'>
     <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
     <p>Degree: Bachelor</p>
-    <p>Period: 2018.09 - 2022.06</p>
-    <p>Major: Information Engineering (AI Class)</p>
-    <p>GPA: 3.94/4.3 (ranked 1st out of 150)</p>
+    <p>Period: 2019.09 - 2023.06</p>
+    <p>Major: Microelectronics Science and Engineering</p>
+    <p>GPA: 4.03/4.3 (ranked 2nd out of 67)</p>
   </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="40%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- *2023.09 - 2026.03 (expected)*, MS student in Electronic Science and Technology (Department of Micro/Nano Electronics), Shanghai Jiao Tong University, Shanghai, China.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="40%"></div></div>
-<div class='paper-box-text' markdown="1">
-- *2019.09 - 2023.06*, B.E. in Microelectronics Science and Engineering (Department of Micro/Nano Electronics), Shanghai Jiao Tong University, Shanghai, China.
-</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">NPU Chip Design</div>
+    <img src='images/sjtu.png' alt="sym" width="100%" box-shadow="None" >
+  </div>
+  <div class='paper-box-text'>
+    <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
+    <p>Degree: Master</p>
+    <p>Period: 2023.09 - 2026.03 （expected）</p>
+    <p>Major: Integrated Circuit Science and Engineering</p>
+    <p>GPA: 3.98/4.00 (ranked 1st out of 115)</p>
+  </div>
 </div>
 
 # 💻 Internships
