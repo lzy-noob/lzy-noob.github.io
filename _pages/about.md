@@ -138,7 +138,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
     </td>
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:10px;width:75%;vertical-align:middle">
-      <h2>[Huixi Technology (辉羲智能)](https://www.rhino.auto/)</h2>
+      <h2><a href="https://www.rhino.auto/" target="_blank">Huixi Technology (辉羲智能)</a></h2>
       <br>
       2022.11 - 2024.03
       <br>
