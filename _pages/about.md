@@ -97,7 +97,6 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:10px;width:75%;vertical-align:middle">
       <h2>SHANGHAI JIAO TONG UNIVERSITY</h2>
-      <br>
       Degree: Bachelor
       <br>
       Period: 2019.09 - 2023.06
@@ -117,7 +116,6 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:10px;width:75%;vertical-align:middle">
       <h2>SHANGHAI JIAO TONG UNIVERSITY</h2>
-      <br>
       Degree: Master
       <br>
       Period: 2023.09 - 2026.03 （expected）
@@ -139,7 +137,6 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:10px;width:75%;vertical-align:middle">
       <h2><a href="https://www.rhino.auto/" target="_blank">Huixi Technology (辉羲智能)</a></h2>
-      <br>
       2022.11 - 2024.03
       <br>
       <strong>Hardware & Toolchain Intern</strong>
