@@ -88,10 +88,12 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 - *2021.09* **2nd Prize on Naitional Undergraduate Embedded Chip Design Competition (嵌入式芯片与系统设计竞赛)** from Chinese Institute of Electronics.
 
 # 📖 Educations
-<div class='paper-box'><img src='images/NPU_arch.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div><img src='images/NPU_arch.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - *2023.09 - 2026.03 (expected)*, MS student in Electronic Science and Technology (Department of Micro/Nano Electronics), Shanghai Jiao Tong University, Shanghai, China.
 - *2019.09 - 2023.06*, B.E. in Microelectronics Science and Engineering (Department of Micro/Nano Electronics), Shanghai Jiao Tong University, Shanghai, China.
+</div>
+</div>
 
 # 💻 Internships
 - *2022.11 - 2024.03*, **Hardware & Toolchain Intern** in [Huixi Technology (辉羲智能)](https://www.rhino.auto/), Shanghai, China.
