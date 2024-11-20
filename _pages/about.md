@@ -96,7 +96,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
     </td>
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:10px;width:75%;vertical-align:middle">
-      <h2>SHANGHAI JIAO TONG UNIVERSITY</h2>
+      <h2><a href="https://en.sjtu.edu.cn" target="_blank">SHANGHAI JIAO TONG UNIVERSITY</a></h2>
       Degree: Bachelor
       <br>
       Period: 2019.09 - 2023.06
@@ -115,7 +115,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
     </td>
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:10px;width:75%;vertical-align:middle">
-      <h2>SHANGHAI JIAO TONG UNIVERSITY</h2>
+      <h2><a href="https://en.sjtu.edu.cn" target="_blank">SHANGHAI JIAO TONG UNIVERSITY</a></h2>
       Degree: Master
       <br>
       Period: 2023.09 - 2026.03 （expected）
