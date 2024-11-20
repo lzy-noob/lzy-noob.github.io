@@ -89,16 +89,6 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 # 📖 Educations
 
-要实现你提供的图片中的效果，你需要对HTML和CSS进行一些调整。以下是一些基本的步骤和代码示例，你可以根据这些信息来修改你的代码：
-
-1. **HTML结构**：确保你的HTML结构正确，并且包含了所有的内容。
-
-2. **CSS样式**：为`.paper-box`、`.paper-box-image`、`.badge`和`.paper-box-text`添加适当的CSS样式。
-
-3. **图片和徽章**：确保图片路径正确，并且徽章（badge）的样式符合你的需求。
-
-下面是一个基本的示例，你可以根据这个示例来调整你的代码：
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
