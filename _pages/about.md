@@ -65,7 +65,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 - ``ICCAD 2023`` [SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing](https://ieeexplore.ieee.org/document/10323728), Dongxu Lyu, **Zhenyu Li**, Yuzhou Chen, Jinming Zhang, Ningyi Xu and Guanghui He, *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023, pp. 1-9.
 - ``DAC 2023`` [FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling](https://ieeexplore.ieee.org/abstract/document/10247674), Dongxu Lyu, **Zhenyu Li**, Yuzhou Chen, Ningyi Xu and Guanghui He, *2023 60th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2023, pp. 1-6.
 
-# 💻 Project
+# 💻 Projects
 ## A High Performance Neural Processing Unit for Efficient CNN Inference (Oct. 2023 -- Present)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPU Chip Design</div><img src='images/NPU_arch.png' alt="sym" width="100%"></div></div>
