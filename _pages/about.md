@@ -74,7 +74,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 [Hybrid Precision Neural Network Processor for Edge Computing (Tape-out)]()
 
 - **High programmability and flexibility**, designed for AI algorithms with multi-operator and multi-precision requirements.
-- Deployed in xx company's intelligent perception terminals for real-time device status detection.
+- **Deployed** in xx company's intelligent perception terminals for real-time device status detection.
 
 
 </div>
