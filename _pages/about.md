@@ -73,10 +73,10 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 [Hybrid Precision Neural Network Processor for Edge Computing (Tape-out)]()
 
-- The **first** grid-based feature learning network accelerator with algorithm-architecture co-optimization for large-scale point clouds. 
-- It demonstrates substantial performance boost over the state-of-the-art point cloud accelerators while providing superior support of large-scale point clouds ($>10^6$ points in $\sim$2ms).
-- **An extension of our DAC'24 paper**.
-- *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*
+- **High programmability and flexibility**, designed for AI algorithms with multi-operator and multi-precision requirements.
+- Deployed in xx company's intelligent perception terminals for real-time device status detection.
+
+
 </div>
 </div>
 
