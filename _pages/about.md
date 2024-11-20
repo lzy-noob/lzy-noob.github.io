@@ -109,18 +109,25 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
   </tr>
 </tbody></table>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/sjtu.png' alt="sym" width="40%" box-shadow="None" >
-  </div>
-  <div class='paper-box-text'>
-    <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
-    <p>Degree: Master</p>
-    <p>Period: 2023.09 - 2026.03 （expected）</p>
-    <p>Major: Integrated Circuit Science and Engineering</p>
-    <p>GPA: 3.98/4.00 (ranked 1st out of 115)</p>
-  </div>
-</div>
+  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+  <tr>
+    <td style="padding:20px;width:25%;vertical-align:middle;">
+      <img src="images/sjtu.png" alt="sjtu" width="100">
+    </td>
+    <!-- <td width="75%" valign="center"> -->
+    <td style="padding:20px;width:75%;vertical-align:middle">
+      <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
+      <br>
+      Degree: Master
+      <br>
+      Period: 2023.09 - 2026.03 （expected）
+      <br>
+      Major: Integrated Circuit Science and Engineering
+      <br>
+      <strong>GPA: 3.98/4.00 (ranked 1st out of 115)</strong>
+    </td>
+  </tr>
+</tbody></table>
 
 # 💻 Internships
 - *2022.11 - 2024.03*, **Hardware & Toolchain Intern** in [Huixi Technology (辉羲智能)](https://www.rhino.auto/), Shanghai, China.
