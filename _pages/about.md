@@ -21,8 +21,6 @@ I am currently enrolled in a Master's program for Electrical Science and Technol
 
 My current research interests focus on **Efficient ASIC Architecture Design for Emerging Applications**  (<a href='https://scholar.google.com/citations?user=vOi3QPQAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
 
-My current research interests focus on(<a href='https://scholar.google.com/citations?user=K1JGQBIAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). 
-
 - **Efficient Hardware Accelerators for Autonomous Driving Systems**
   - Preprocessing: *feature learning network* (DAC'23, TVLSI'24)
   - Backbone: *3D sparse convolution* (ICCAD'23)
