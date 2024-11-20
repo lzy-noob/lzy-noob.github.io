@@ -23,10 +23,10 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 - **Efficient Hardware Accelerators for Autonomous Driving Systems**
   - Preprocessing: *feature learning network* (DAC'23, TVLSI'24)
   - Backbone: *3D sparse convolution* (ICCAD'23)
-  - Multi-modality Fusion: *vision-centric 3D perception* (DAC'24 and TCAS-I'24(under minor revision))
+  - Multi-modality Fusion: *vision-centric 3D perception* (DAC'24 and TCAS-I'24 (under minor revision))
   - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II'24)
 - **Efficient Hardware Accelerators for Neural Radiance Field (NeRF)**
-  - Hardware/Software Co-Design for NERF based 3D reconstruction (TCAD'24(under minor revision))
+  - Hardware/Software Co-Design for NERF based 3D reconstruction (TCAD'24 (under minor revision))
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 One co-authored paper about *Deformable Attention Acceleration* is accepted by DAC'24 ! Congratulations to Yansong !
@@ -37,12 +37,24 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+$^{\star}$: project manager; $^{\dagger}$: equal contribution.
+
+## Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVLSI 2024</div><img src='images/TVLSI24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling]()
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Dongxu Lyu**$^{\dagger}$, Zhenyu Li$^{\dagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu and Guanghui He
+
+- The **first** grid-based feature learning network accelerator with algorithm-architecture co-optimization for large-scale point clouds. 
+- It demonstrates substantial performance boost over the state-of-the-art point cloud accelerators while providing superior support of large-scale point clouds ($>10^6$ points in $\sim$2ms).
+- **An extension of our DAC'24 paper**.
+- *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*
+</div>
+</div>
+
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
