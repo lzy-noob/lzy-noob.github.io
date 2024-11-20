@@ -3,19 +3,19 @@
 #   url: "/#-invited-talks"
 main:
   - title: "About Me"
-    url: "https://lzy-noob.github.io/lizhenyu.github.io/"
+    url: "https://lzy-noob.github.io/lizhenyu.github.io/#about-me"
 
   - title: "News"
-    url: "https://lzy-noob.github.io/lizhenyu.github.io/"
+    url: "https://lzy-noob.github.io/lizhenyu.github.io/#-news"
 
   - title: "Publications"
-    url: "https://lzy-noob.github.io/lizhenyu.github.io/"
+    url: "https://lzy-noob.github.io/lizhenyu.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "https://lzy-noob.github.io/lizhenyu.github.io/"
+    url: "https://lzy-noob.github.io/lizhenyu.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "https://lzy-noob.github.io/lizhenyu.github.io/"
+    url: "https://lzy-noob.github.io/lizhenyu.github.io/#-educations"
 
   - title: "Internships"
-    url: "https://lzy-noob.github.io/lizhenyu.github.io/"
+    url: "https://lzy-noob.github.io/lizhenyu.github.io/#-interbships"
