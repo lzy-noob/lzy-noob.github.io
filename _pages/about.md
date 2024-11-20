@@ -91,11 +91,11 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
-    <td style="padding:10px;width:25%;vertical-align:middle;">
+    <td style="padding:10px;width:15%;vertical-align:middle;">
       <img src="images/sjtu.png" alt="sjtu" width="150">
     </td>
     <!-- <td width="75%" valign="center"> -->
-    <td style="padding:10px;width:75%;vertical-align:middle">
+    <td style="padding:10px;width:85%;vertical-align:middle">
       <h2><a href="https://en.sjtu.edu.cn" target="_blank">SHANGHAI JIAO TONG UNIVERSITY</a></h2>
       Degree: Bachelor
       <br>
@@ -110,11 +110,11 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
-    <td style="padding:10px;width:25%;vertical-align:middle;">
+    <td style="padding:10px;width:15%;vertical-align:middle;">
       <img src="images/sjtu.png" alt="sjtu" width="150">
     </td>
     <!-- <td width="75%" valign="center"> -->
-    <td style="padding:10px;width:75%;vertical-align:middle">
+    <td style="padding:10px;width:85%;vertical-align:middle">
       <h2><a href="https://en.sjtu.edu.cn" target="_blank">SHANGHAI JIAO TONG UNIVERSITY</a></h2>
       Degree: Master
       <br>
