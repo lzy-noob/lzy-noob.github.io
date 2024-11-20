@@ -91,7 +91,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='images/sjtu.png' alt="sym" width="100%" box-shadow="None" >
+    <img src='images/sjtu.png' alt="sym" width="40%" box-shadow="None" >
   </div>
   <div class='paper-box-text'>
     <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
@@ -104,7 +104,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <img src='images/sjtu.png' alt="sym" width="100%" box-shadow="None" >
+    <img src='images/sjtu.png' alt="sym" width="40%" box-shadow="None" >
   </div>
   <div class='paper-box-text'>
     <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
