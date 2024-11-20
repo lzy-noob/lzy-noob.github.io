@@ -10,10 +10,13 @@ main:
 
   - title: "Publications"
     url: "https://lzy-noob.github.io/lizhenyu.github.io/#-publications"
+    
+  - title: "Projects"
+    url: "https://lzy-noob.github.io/lizhenyu.github.io/#-projects"
 
   - title: "Honors and Awards"
     url: "https://lzy-noob.github.io/lizhenyu.github.io/#-honors-and-awards"
-
+  
   - title: "Educations"
     url: "https://lzy-noob.github.io/lizhenyu.github.io/#-educations"
 
