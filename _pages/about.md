@@ -89,21 +89,6 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 # 📖 Educations
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <img src='images/sjtu.png' alt="sym" width="40%" box-shadow="None" >
-  </div>
-  <div class='paper-box-text'>
-    <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
-    <p>Degree: Bachelor</p>
-    <p>Period: 2019.09 - 2023.06</p>
-    <p>Major: Microelectronics Science and Engineering</p>
-    <p>GPA: 4.03/4.3 (ranked 2nd out of 67)</p>
-  </div>
-</div>
-
-</tbody></table>
-
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
     <td style="padding:20px;width:25%;vertical-align:middle;">
@@ -111,16 +96,17 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
     </td>
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:20px;width:75%;vertical-align:middle">
+      <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
+      <br>
       Degree: Bachelor
       <br>
-      Period: 2018.09 - 2022.06
+      Period: 2019.09 - 2023.06
       <br>
-      Major:  Information Engineering (AI Class)
+      Major: Microelectronics Science and Engineering
       <br>
-      <strong>GPA:    3.94/4.3 (ranked 1st out of 150)</strong>
+      <strong>GPA: 4.03/4.3 (ranked 2nd out of 67)</strong>
     </td>
   </tr>
-
 </tbody></table>
 
 <div class='paper-box'>
