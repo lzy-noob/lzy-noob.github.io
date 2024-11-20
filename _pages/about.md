@@ -91,12 +91,12 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
-    <td style="padding:20px;width:25%;vertical-align:middle;">
+    <td style="padding:20px;width:40%;vertical-align:middle;">
       <img src="images/sjtu.png" alt="sjtu" width="100">
     </td>
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:20px;width:75%;vertical-align:middle">
-      <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
+      <h2>SHANGHAI JIAO TONG UNIVERSITY</h2>
       <br>
       Degree: Bachelor
       <br>
@@ -111,12 +111,12 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
   <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
   <tr>
-    <td style="padding:20px;width:25%;vertical-align:middle;">
+    <td style="padding:20px;width:40%;vertical-align:middle;">
       <img src="images/sjtu.png" alt="sjtu" width="100">
     </td>
     <!-- <td width="75%" valign="center"> -->
     <td style="padding:20px;width:75%;vertical-align:middle">
-      <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
+      <h2>SHANGHAI JIAO TONG UNIVERSITY</h2>
       <br>
       Degree: Master
       <br>
