@@ -89,49 +89,10 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 # 📖 Educations
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
-<style>
-  .paper-box {
-    display: flex;
-    align-items: center;
-    border: 1px solid #ccc;
-    padding: 10px;
-    margin: 10px;
-    border-radius: 5px;
-  }
-  .paper-box-image {
-    margin-right: 20px;
-  }
-  .badge {
-    background-color: #f0f0f0;
-    border-radius: 5px;
-    padding: 5px;
-    font-size: 14px;
-    font-weight: bold;
-  }
-  .paper-box-text {
-    flex-grow: 1;
-  }
-  .paper-box-text h1 {
-    font-size: 18px;
-    margin: 0;
-  }
-  .paper-box-text p {
-    font-size: 16px;
-    margin: 5px 0;
-  }
-</style>
-</head>
-<body>
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div class="badge">NPU Chip Design</div>
-    <img src='images/NPU_arch.png' alt="sym" width="100%">
+    <img src='images/NPU_arch.png' alt="sym" width="100%" box-shadow="None" >
   </div>
   <div class='paper-box-text'>
     <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
@@ -141,8 +102,6 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
     <p>GPA: 3.94/4.3 (ranked 1st out of 150)</p>
   </div>
 </div>
-</body>
-</html>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="40%"></div></div>
