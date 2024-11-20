@@ -88,6 +88,73 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 - *2021.09* **2nd Prize on Naitional Undergraduate Embedded Chip Design Competition (嵌入式芯片与系统设计竞赛)** from Chinese Institute of Electronics.
 
 # 📖 Educations
+
+要实现你提供的图片中的效果，你需要对HTML和CSS进行一些调整。以下是一些基本的步骤和代码示例，你可以根据这些信息来修改你的代码：
+
+1. **HTML结构**：确保你的HTML结构正确，并且包含了所有的内容。
+
+2. **CSS样式**：为`.paper-box`、`.paper-box-image`、`.badge`和`.paper-box-text`添加适当的CSS样式。
+
+3. **图片和徽章**：确保图片路径正确，并且徽章（badge）的样式符合你的需求。
+
+下面是一个基本的示例，你可以根据这个示例来调整你的代码：
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+<style>
+  .paper-box {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+  }
+  .paper-box-image {
+    margin-right: 20px;
+  }
+  .badge {
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .paper-box-text {
+    flex-grow: 1;
+  }
+  .paper-box-text h1 {
+    font-size: 18px;
+    margin: 0;
+  }
+  .paper-box-text p {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+</style>
+</head>
+<body>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">NPU Chip Design</div>
+    <img src='images/NPU_arch.png' alt="sym" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h1>SHANGHAI JIAO TONG UNIVERSITY</h1>
+    <p>Degree: Bachelor</p>
+    <p>Period: 2018.09 - 2022.06</p>
+    <p>Major: Information Engineering (AI Class)</p>
+    <p>GPA: 3.94/4.3 (ranked 1st out of 150)</p>
+  </div>
+</div>
+</body>
+</html>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/sjtu.png' alt="sym" width="40%"></div></div>
 <div class='paper-box-text' markdown="1">
 
