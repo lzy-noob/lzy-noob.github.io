@@ -91,7 +91,6 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">NPU Chip Design</div>
     <img src='images/sjtu.png' alt="sym" width="100%" box-shadow="None" >
   </div>
   <div class='paper-box-text'>
@@ -105,7 +104,6 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 <div class='paper-box'>
   <div class='paper-box-image'>
-    <div class="badge">NPU Chip Design</div>
     <img src='images/sjtu.png' alt="sym" width="100%" box-shadow="None" >
   </div>
   <div class='paper-box-text'>
