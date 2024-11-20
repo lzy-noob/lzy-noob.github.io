@@ -71,7 +71,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPU Chip Design</div><img src='images/NPU_arch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Hybrid Precision Neural Network Processor for Edge Computing (Tape-out)
+**Hybrid Precision Neural Network Processor for Edge Computing (Tape-out)**
 
 - **High programmability and flexibility**, designed for AI algorithms with multi-operator and multi-precision requirements.
 - Equipped with an operator-assembly translation framework to support fast deployment of the entire network.
