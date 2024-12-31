@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"3KnA9M9tzXDhke2r",ck:"3KnA9M9tzXDhke2r"})</script>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
