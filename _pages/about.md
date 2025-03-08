@@ -32,11 +32,14 @@ My current research interests focus on **Efficient ASIC Architecture Design for 
   - Hardware/Software Co-Design for NERF based 3D reconstruction (TCAD'24 (under minor revision))
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 Our paper about DSA’s Efficiency Optimization on KV Cache in LLMs is accepted by DAC. One co-authored paper about Near Memory Processing for Generative LLM inference is accepted by DAC. One co-authored paper about Bit-serial Neural Network Acceleration is accepted by DAC.
+- *2024.11*: &nbsp;🎉🎉 Our paper about Neural Rendering Acceleration is accepted by TCAD.
+- *2024.03*: &nbsp;🎉🎉 The preprint version of our DAC’24 paper DEFA: Deformable Attention Accelerator is available on ArXiv. Welcome to discuss with us !!
 - *2024.02*: &nbsp;🎉🎉 One co-authored paper about *Deformable Attention Acceleration* is accepted by DAC'24 ! Congratulations to Yansong !
 - *2024.02*: &nbsp;🎉🎉 One co-authored paper about *NN data compression engine* is accepted by IEEE TCAS-II. Congratulations to Yuzhou !
 - *2024.01*: &nbsp;🎉🎉 The extended paper of our DAC'23 is accepted by IEEE TVLSI !
-- *2023.07*: &nbsp;🎉🎉 One co-authored about *3D Sparse Convolution Accelerator* is accepted by ICCAD'23. Congratulations to Dongxu ! 
-- *2023.02*: &nbsp;🎉🎉 One co-authored about *Feature Learning Network Acceleration of Point Clouds* is accepted by DAC'23. Congratulations to Dongxu !
+- *2023.07*: &nbsp;🎉🎉 One co-authored paper about *3D Sparse Convolution Accelerator* is accepted by ICCAD'23. Congratulations to Dongxu ! 
+- *2023.02*: &nbsp;🎉🎉 One co-authored paper about *Feature Learning Network Acceleration of Point Clouds* is accepted by DAC'23. Congratulations to Dongxu !
 
 # 📝 Publications 
 
