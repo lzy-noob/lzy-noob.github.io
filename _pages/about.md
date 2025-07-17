@@ -79,7 +79,7 @@ Yuzhou Chen$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Dongxu Lyu, Yansong Xu and G
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/KVO-LLM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/KVO_LLM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KVO-LLM: Boosting Long-Context Generation Throughput for Batched LLM Inference]()
