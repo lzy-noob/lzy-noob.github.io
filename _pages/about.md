@@ -24,12 +24,16 @@ I am currently enrolled in a Master's program for Electrical Science and Technol
 My current research interests focus on **Efficient ASIC Architecture Design for Emerging Applications**. 
 
 - **Efficient Hardware Accelerators for Autonomous Driving Systems**
-  - Preprocessing: *feature learning network* (DAC'23, TVLSI'24)
-  - Backbone: *3D sparse convolution* (ICCAD'23)
-  - Multi-modality Fusion: *vision-centric 3D perception* (DAC'24 and TCAS-I'24 (under minor revision))
-  - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II'24)
+  - Preprocessing: feature learning network (DAC2023, TVLSI2024)
+  - Backbone: 3D sparse convolution (ICCAD2023)
+  - Multi-modality Fusion: vision-centric 3D perception (DAC2024, TCAS-I2025)
+  - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II2024)
 - **Efficient Hardware Accelerators for Neural Radiance Field (NeRF)**
-  - Hardware/Software Co-Design for NERF based 3D reconstruction (TCAD'24 (under minor revision))
+  - Hardware/Software Co-Design for NERF based 3D reconstruction (TCAD2025)
+- **Efficient Hardware Accelerators for Transformers**
+  - KV Cache Compression (2 x DAC2025)
+  - Bit-Serial Acceleration (DAC2025)
+  - Processing-in-Memory (DAC2025)
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper about Acceleration for Vision-Centric 3D Perception is accepted by TCAS-I.
@@ -65,7 +69,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 ## Full Pub List
 
 ### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
-- ``TCAS-I 2025`` [An Efficient Multi-View Cross-Attention Accelerator for Vision-Centric 3D Perception in Autonomous Driving](), Dongxu Lyu, **Zhenyu Li**, Yansong Xu, Gang Wang, Wenjie Li, Yuzhou Chen, Liyan Chen, Weifeng He and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 72, no. 7, pp. 3272-3285, July 2025.
+- ``TCAS-I 2025`` [An Efficient Multi-View Cross-Attention Accelerator for Vision-Centric 3D Perception in Autonomous Driving](https://ieeexplore.ieee.org/document/10950425), Dongxu Lyu, **Zhenyu Li**, Yansong Xu, Gang Wang, Wenjie Li, Yuzhou Chen, Liyan Chen, Weifeng He and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 72, no. 7, pp. 3272-3285, July 2025.
 - ``DAC 2025`` [KVO-LLM: Boosting Long-Context Generation Throughput for Batched LLM Inference](), **Zhenyu Li**$^{\dagger}$, Dongxu Lyu$^{\dagger}$, Gang Wang, Yuzhou Chen, Liyan Chen, Wenjie Li, Jianfei Jiang, Yanan Sun and Guanghui He, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
 - ``DAC 2025`` [VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator](), Zhican Wang, Hongxiang Fan, Haroon Waris, Gang Wang, **Zhenyu Li**, Jianfei Jiang, Yanan Sun and Guanghui He, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
 - ``DAC 2025`` [BitPattern: Enabling Efficient Bit-Serial Acceleration of Deep Neural Networks through Bit-Pattern Pruning](), Gang Wang, Siqi Cai, **Zhenyu Li**, Wenjie Li, Dongxu Lyu, Yanan Sun, Jianfei Jiang and Guanghui He, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
@@ -74,7 +78,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 - ``DAC 2024`` [DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing](https://arxiv.org/pdf/2403.10913.pdf), Yansong Xu, Dongxu Lyu, **Zhenyu Li**, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, Haomin Li and Guanghui He, *2024 61th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2024.
 - ``TCAS-II 2024`` [A Broad-Spectrum and High-Throughput Compression Engine for Neural Network Processors](https://ieeexplore.ieee.org/document/10433078), Yuzhou Chen, Jinming Zhang, Dongxu Lyu, **Zhenyu Li** and Guanghui He, in *IEEE Transactions on Circuits and Systems II: Express Briefs*, vol. 71, no. 7, pp. 3528-3532, July 2024.
 - ``TVLSI 2024`` [FLNA: Flexibly Accelerating Feature Learning Networks for Large-Scale Point Clouds with Efficient Dataflow Decoupling](https://ieeexplore.ieee.org/document/10416684), Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu and Guanghui He, in *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*, vol. 32, no. 4, pp. 739-751, April 2024.
-- ``ICCAD 2023`` [SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing](https://ieeexplore.ieee.org/document/10323728), Dongxu Lyu, **Zhenyu Li**, Yuzhou Chen, Jinming Zhang, Ningyi Xu and Guanghui He, *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023, pp. 1-9.
+- ``ICCAD 2023`` [SpOctA: A 3D Sparse Convolution Accelerator with Octree-Encoding-Based Map Search and Inherent Sparsity-Aware Processing](https://ieeexplore.ieee.org/document/10323728), Dongxu Lyu, **Zhenyu Li**, Yuzhou Chen, Jinming Zhang, Ningyi Xu and Guanghui He, *2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)*, San Francisco, CA, USA, 2023.
 - ``DAC 2023`` [FLNA: An Energy-Efficient Point Cloud Feature Learning Accelerator with Dataflow Decoupling](https://ieeexplore.ieee.org/abstract/document/10247674), Dongxu Lyu, **Zhenyu Li**, Yuzhou Chen, Ningyi Xu and Guanghui He, *2023 60th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2023.
 
 # 💻 Projects
