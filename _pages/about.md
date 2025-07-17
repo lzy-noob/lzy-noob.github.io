@@ -79,9 +79,21 @@ Yuzhou Chen$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Dongxu Lyu, Yansong Xu and G
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/NERA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[KVO-LLM: Boosting Long-Context Generation Throughput for Batched LLM Inference]()
+
+**Zhenyu Li**$^{\dagger}$, Dongxu Lyu$^{\dagger}$, Gang Wang, Yuzhou Chen, Liyan Chen, Wenjie Li, Jianfei Jiang, Yanan Sun and Guanghui He
+
+- Proposed a deferred neural decoding method to aggregate the network queries, reducing the computation workload by $85.6\%$ compared to the original algorithm and only incurs $<0.5\%$ loss in rendering quality.
+- Implemented a highly-pipelined accelerator utilizing voxel-centric dataflow, which achieves up to $2.9\times$ throughput, $36.5\times$ energy efficiency over the state-of-the-art related accelerators.
+- *2025 62th ACM/IEEE Design Automation Conference (DAC)*
+</div>
+</div>
+
 ## Full Pub List
 
-### Efficient Hardware Accelerators for AI Computing (Jan. 2022 -- Present)
 - ``TCAS-I 2025`` [An Efficient Multi-View Cross-Attention Accelerator for Vision-Centric 3D Perception in Autonomous Driving](https://ieeexplore.ieee.org/document/10950425), Dongxu Lyu, **Zhenyu Li**, Yansong Xu, Gang Wang, Wenjie Li, Yuzhou Chen, Liyan Chen, Weifeng He and Guanghui He, in *IEEE Transactions on Circuits and Systems I: Regular Papers*, vol. 72, no. 7, pp. 3272-3285, July 2025.
 - ``DAC 2025`` [KVO-LLM: Boosting Long-Context Generation Throughput for Batched LLM Inference](), **Zhenyu Li**$^{\dagger}$, Dongxu Lyu$^{\dagger}$, Gang Wang, Yuzhou Chen, Liyan Chen, Wenjie Li, Jianfei Jiang, Yanan Sun and Guanghui He, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
 - ``DAC 2025`` [VEDA: Efficient LLM Generation Through Voting-based KV Cache Eviction and Dataflow-flexible Accelerator](), Zhican Wang, Hongxiang Fan, Haroon Waris, Gang Wang, **Zhenyu Li**, Jianfei Jiang, Yanan Sun and Guanghui He, *2025 62th ACM/IEEE Design Automation Conference (DAC)*, San Francisco, CA, USA, 2025.
