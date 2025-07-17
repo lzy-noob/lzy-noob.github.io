@@ -24,16 +24,16 @@ I am currently enrolled in a Master's program for Electrical Science and Technol
 My current research interests focus on **Efficient ASIC Architecture Design for Emerging Applications**. 
 
 - **Efficient Hardware Accelerators for Autonomous Driving Systems**
-  - Preprocessing: feature learning network (DAC2023, TVLSI2024)
-  - Backbone: 3D sparse convolution (ICCAD2023)
-  - Multi-modality Fusion: vision-centric 3D perception (DAC2024, TCAS-I2025)
-  - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II2024)
+  - Preprocessing: feature learning network (DAC 2023, TVLSI 2024)
+  - Backbone: 3D sparse convolution (ICCAD 2023)
+  - Multi-modality Fusion: vision-centric 3D perception (DAC 2024, TCAS-I 2025)
+  - Data Compression Techniques for High-bandwidth Requirement from Future Neural Networks (TCAS-II 2024)
 - **Efficient Hardware Accelerators for Neural Radiance Field (NeRF)**
-  - Hardware/Software Co-Design for NERF based 3D reconstruction (TCAD2025)
+  - Hardware/Software Co-Design for NERF based 3D reconstruction (TCAD 2025)
 - **Efficient Hardware Accelerators for Transformers**
-  - KV Cache Compression (2 x DAC2025)
-  - Bit-Serial Acceleration (DAC2025)
-  - Processing-in-Memory (DAC2025)
+  - KV Cache Compression (2 x DAC 2025)
+  - Bit-Serial Acceleration (DAC 2025)
+  - Processing-in-Memory (DAC 2025)
 
 # 🔥 News
 - *2025.04*: &nbsp;🎉🎉 One co-authored paper about Acceleration for Vision-Centric 3D Perception is accepted by TCAS-I.
