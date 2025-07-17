@@ -73,7 +73,7 @@ Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weife
 
 Yuzhou Chen$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Dongxu Lyu, Yansong Xu and Guanghui He
 
-- Proposed a deferred neural decoding method to aggregate the network queries, reducing the computation workload by $85.6%$ compared to the original algorithm and only incurs $<0.5%$ loss in rendering quality.
+- Proposed a deferred neural decoding method to aggregate the network queries, reducing the computation workload by $85.6\%$ compared to the original algorithm and only incurs $<0.5\%$ loss in rendering quality.
 - Implemented a highly-pipelined accelerator utilizing voxel-centric dataflow, which achieves up to $2.9\times$ throughput, $36.5\times$ energy efficiency over the state-of-the-art related accelerators.
 - *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*
 </div>
