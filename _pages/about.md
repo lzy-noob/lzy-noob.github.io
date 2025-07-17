@@ -60,7 +60,7 @@ $^{\dagger}$: equal contribution.
 Dongxu Lyu$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Yuzhou Chen, Gang Wang, Weifeng He, Ningyi Xu and Guanghui He
 
 - The **first** grid-based feature learning network accelerator with algorithm-architecture co-optimization for large-scale point clouds. 
-- It demonstrates substantial performance boost over the state-of-the-art point cloud accelerators while providing superior support of large-scale point clouds ($>10^6$ points in $\sim$2ms).
+- It demonstrates substantial performance boost over the state-of-the-art point cloud accelerators while providing superior support of large-scale point clouds ($>10^6$ points in $\sim2$ ms).
 - **An extension of our DAC'24 paper**.
 - *IEEE Transactions on Very Large Scale Integration (VLSI) Systems*
 </div>
