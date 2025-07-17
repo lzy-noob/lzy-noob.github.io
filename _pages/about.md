@@ -79,15 +79,15 @@ Yuzhou Chen$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Dongxu Lyu, Yansong Xu and G
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/NERA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/KVO-LLM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [KVO-LLM: Boosting Long-Context Generation Throughput for Batched LLM Inference]()
 
 **Zhenyu Li**$^{\dagger}$, Dongxu Lyu$^{\dagger}$, Gang Wang, Yuzhou Chen, Liyan Chen, Wenjie Li, Jianfei Jiang, Yanan Sun and Guanghui He
 
-- Proposed a deferred neural decoding method to aggregate the network queries, reducing the computation workload by $85.6\%$ compared to the original algorithm and only incurs $<0.5\%$ loss in rendering quality.
-- Implemented a highly-pipelined accelerator utilizing voxel-centric dataflow, which achieves up to $2.9\times$ throughput, $36.5\times$ energy efficiency over the state-of-the-art related accelerators.
+- Proposed a framework unifying quantization and pruning, which compresses KV cache by up to $92\%$.
+- Implemented a multi-core architecture utilizing intra- and inter-core latency overlapping. 
 - *2025 62th ACM/IEEE Design Automation Conference (DAC)*
 </div>
 </div>
