@@ -122,6 +122,7 @@ Yuzhou Chen$^{\dagger}$, **Zhenyu Li**$^{\dagger}$, Dongxu Lyu, Yansong Xu and G
 
 # 🎖 Honors and Awards
 - *2025.09* **National Scholarship for Graduate Student** from Shanghai Jiao Tong University.
+- *2025.09* **1st Prize on China Postgraduate IC Innovation Competition (中国研究生创芯大赛)** from Association of Chinese Graduate Education. 
 - *2024.11* **Tang Youshuqi Scholarship** from Shanghai Jiao Tong University. 
 - *2024.09* **3rd Prize on China Postgraduate IC Innovation Competition (中国研究生创芯大赛)** from Association of Chinese Graduate Education. 
 - *2023.06* **Outstanding Graduate** from Shanghai Jiao Tong University. 
